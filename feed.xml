@@ -3,10 +3,30 @@
     <title>The Prentice Point Podcast</title>
     <link href="https://aceejay.github.io/prenticepoint-podcast/feed.xml" rel="self" />
     <link href="https://aceejay.github.io/prenticepoint-podcast" />
-    <updated>1970-01-01T08:00:00+08:00</updated>
+    <updated>2022-07-31T02:40:29+08:00</updated>
     <author>
         <name>Ceejay Alvarez</name>
     </author>
     <id>https://aceejay.github.io/prenticepoint-podcast</id>
 
+    <entry>
+        <title>Ang Simula</title>
+        <author>
+            <name>Ceejay Alvarez</name>
+        </author>
+        <link href="https://aceejay.github.io/prenticepoint-podcast/ang-simula.html"/>
+        <id>https://aceejay.github.io/prenticepoint-podcast/ang-simula.html</id>
+            <category term="reads"/>
+            <category term="Reformed Theology"/>
+            <category term="Grace"/>
+            <category term="Covenant Theology"/>
+
+        <updated>2022-07-31T02:40:29+08:00</updated>
+            <summary>
+                <![CDATA[
+                    Lahat ay may simulain. Sa mga oras na ito. Aking sinisimulan ang pagbuo ng mga reflections ko hinggil sa aking pagkatuto (Kahit hindi&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
 </feed>

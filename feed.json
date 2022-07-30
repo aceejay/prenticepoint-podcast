@@ -10,5 +10,22 @@
         "name": "Ceejay Alvarez"
     },
     "items": [
+        {
+            "id": "https://aceejay.github.io/prenticepoint-podcast/ang-simula.html",
+            "url": "https://aceejay.github.io/prenticepoint-podcast/ang-simula.html",
+            "title": "Ang Simula",
+            "summary": "Lahat ay may simulain. Sa mga oras na ito. Aking sinisimulan ang pagbuo ng mga reflections ko hinggil sa aking pagkatuto (Kahit hindi&hellip;",
+            "author": {
+                "name": "Ceejay Alvarez"
+            },
+            "tags": [
+                   "reads",
+                   "Reformed Theology",
+                   "Grace",
+                   "Covenant Theology"
+            ],
+            "date_published": "2022-07-31T02:40:29+08:00",
+            "date_modified": "2022-07-31T02:40:29+08:00"
+        }
     ]
 }
